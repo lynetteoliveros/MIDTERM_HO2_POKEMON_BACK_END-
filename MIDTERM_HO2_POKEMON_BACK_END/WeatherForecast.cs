@@ -11,3 +11,12 @@ namespace MIDTERM_HO2_POKEMON_BACK_END
         public string? Summary { get; set; }
     }
 }
+
+public class Pokemon
+{
+    public int Name { get; set; }
+    public int Type { get; set; }
+    public int Float { get; set; }
+    public int Float { get; set; }
+    public String ? IsageUrl { get; set; }
+}
